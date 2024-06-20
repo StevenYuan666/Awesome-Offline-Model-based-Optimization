@@ -8,9 +8,9 @@
 ## 🔍 Table of Contents
 - [🌟 What is Offline Model-based Optimization?](#-definition)
 - [🔗 Benchmarks](#-Benchmarks)
-- [🎯 Surrogate Models-based Methods](#-Surrogate Models-based Methods)
-- [🤔 Generative Models-based Methods](#-Generative Models-based Methods)
-- [📍 Other Applications](#-Other Applications)
+- [🎯 Surrogate Models-based Methods](#-Surrogate-Models-based-Methods)
+- [🤔 Generative Models-based Methods](#-Generative-Models-based-Methods)
+- [📍 Other Applications](#-Other-Applications)
 - [🤗 Contribution](#-contribution)
   - [Contributors](#contributors)
   - [Acknowledgement](#acknowledgement)
@@ -123,53 +123,53 @@
  
 - [**ExPT: Synthetic Pretraining for Few-Shot Experimental Design**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8fab4407e1fe9006b39180525c0d323c-Abstract-Conference.html) **_NeurIPS_** 2023 Oct
 
-### Graph Models
+### 🌃 Graph Models
 - [**Functional Graphical Models: Structure Enables Offline Data-Driven Optimization**](https://proceedings.mlr.press/v238/grudzien24a.html) **_AISTATS_** 2024 May
 
-### Distribution Shift Detection
+### 🧐 Distribution Shift Detection
 - [**Beyond the training set: an intuitive method for detecting distribution shift in model-based optimization**](https://arxiv.org/abs/2311.05363) **_Arxiv_** 2023 Nov
 
-### Online Optimization
+### 💻 Online Optimization
 - [**Feedback Efficient Online Fine-Tuning of Diffusion Models**](https://arxiv.org/abs/2402.16359) **_Arxiv_** 2024 Feb
 
-### LM Regressor
+### 📈 LM Regressor
 - [**OmniPred: Language Models as Universal Regressors**](https://arxiv.org/abs/2402.14547) **_Arxiv_** 2024 Feb
 
-### Active Learning
+### 📑 Active Learning
 - [**Deep Active Learning for Scientific Computing in the Wild**](https://arxiv.org/abs/2302.00098) **_Arxiv_** 2023 Jan
 
-### Metrics
+### ⌚️ Metrics
 - [**Exploring validation metrics for offline model-based optimisation with diffusion models**](https://arxiv.org/abs/2211.10747) **_Arxiv_** 2022 Nov
 
-### Position Paper
+### 🧑‍🏫 Position Paper
 - [**Position: Leverage foundational models for black-box optimization**](https://arxiv.org/abs/2405.03547) **_Arxiv_** 2024 May
 
-### Dynamic Computation
+### 🧮 Dynamic Computation
 - [**A Data Stream Ensemble Assisted Multifactorial Evolutionary Algorithm for Offline Data-Driven Dynamic Optimization**](https://direct.mit.edu/evco/article/31/4/433/115655/A-Data-Stream-Ensemble-Assisted-Multifactorial) **_Evolutionary Computation_** 2023 Dec
 
-### EEG/ECoG BCI
+### 🧠 EEG/ECoG BCI
 - [**Enhancing DNN Models for EEG/ECoG BCI With a Novel Data-Driven Offline Optimization Method**](https://ieeexplore.ieee.org/abstract/document/10093876) **_IEEE Access_** 2023 Apr
 
-### Other
+### 🧪 Other
 - [**Virtual laboratories: Transforming research with ai**](https://www.techrxiv.org/doi/full/10.36227/techrxiv.20412540.v1) **_Techrxiv_** 2023 Jan
 
-### PhD Theses
+### 🎓 PhD Theses
 - [**Learning to Optimize: Applications in Physical Designs and Manufacturing**](https://deepblue.lib.umich.edu/handle/2027.42/172757) **_UNIVERSITY OF MICHIGAN LIBRARY_** 2022 Jan
  
 - [**Offline Data-Driven Optimization: Benchmarks, Algorithms and Applications**](https://www.proquest.com/docview/2868497619?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) **_University of California, Berkeley ProQuest Dissertations & Theses_** 2023 Jan
  
 - [**Deep Learning for the modeling and design of artificial electromagnetic materials**](https://www.proquest.com/docview/2819968870?pq-origsite=gscholar&fromopenview=true&sourcetype=Dissertations%20&%20Theses) **_Duke University ProQuest Dissertations & Theses_** 2023 Jan
 
-### Game Card Deck Building
+### 🃏 Game Card Deck Building
 - [**Deep surrogate assisted MAP-elites for automated hearthstone deckbuilding**](https://dl.acm.org/doi/abs/10.1145/3512290.3528718) **_GECCO_** 2022 Jul
 
-### Hardware Optimization
+### ⚙️ Hardware Optimization
 - [**Data-Driven Offline Optimization For Architecting Hardware Accelerators**](https://arxiv.org/abs/2110.11346) **_Arxiv_** 2021 Oct
 
-### Crystal Structure Prediction
+### 💎 Crystal Structure Prediction
 - [**Latent Conservative Objective Models for Data-Driven Crystal Structure Prediction**](https://arxiv.org/abs/2310.10056) **_Arxiv_** 2023 Oct
 
-### Industrial Control
+### 🏭 Industrial Control
 - [**A cGAN Ensemble-based Uncertainty-aware Surrogate Model for Offline Model-based Optimization in Industrial Control Problems**](https://arxiv.org/abs/2205.07250) **_IJCNN_** 2022 May
  
 
