@@ -1,16 +1,16 @@
-# Awesome-Offline-Model-based-Optimization
+# Awesome-Offline-Model-Based-Optimization
 
-📰 Must-read papers on Offline Model-based Optimization 🔥
+📰 Must-read papers on Offline Model-Based Optimization 🔥
 
 This repository collects important papers for our new survey (will release soon).
 
-[![Awesome](https://awesome.re/badge.svg)](https://github.com/StevenYuan666/Awesome-Offline-Model-based-Optimization)
-![](https://img.shields.io/github/last-commit/StevenYuan666/Awesome-Offline-Model-based-Optimization?color=green)
+[![Awesome](https://awesome.re/badge.svg)](https://github.com/StevenYuan666/Awesome-Offline-Model-Based-Optimization)
+![](https://img.shields.io/github/last-commit/StevenYuan666/Awesome-Offline-Model-Based-Optimization?color=green)
 ![](https://img.shields.io/badge/PRs-Welcome-red)
 
 ## 🔍 Table of Contents
 
-- [🌟 What is Offline Model-based Optimization?](#-definition)
+- [🌟 What is Offline Model-Based Optimization?](#-definition)
 - [🔗 Benchmarks](#-Benchmarks)
 - [🎯 Surrogate Models-based Methods](#-Surrogate-Models-based-Methods)
 - [🤔 Generative Models-based Methods](#-Generative-Models-based-Methods)
@@ -18,7 +18,7 @@ This repository collects important papers for our new survey (will release soon)
   - [Contributors](#contributors)
   - [Acknowledgement](#acknowledgement)
 
-## 🌟 What is Offline Model-based Optimization?
+## 🌟 What is Offline Model-Based Optimization?
 
 In offline optimization, the goal is to discover a new design, denoted by $\boldsymbol{x}^*$, that maximizes the objective(s) $\boldsymbol{f}(\boldsymbol{x})$. This is achieved using an offline dataset $\mathcal{D}$, which consists of $N$ designs paired with their property labels. In particular, the dataset is given by $\mathcal{D} = \{(\boldsymbol{x}_i, \boldsymbol{y}_i)\}_{i=1}^{N}\,$ where each design vector $\boldsymbol{x}_i$ belongs to a design space $\mathcal{X} \subseteq \mathbb{R}^d$, and each property label $\boldsymbol{y}_i \in \mathbb{R}^m$ contains the corresponding $m$ objective values for that design. The function $\boldsymbol{f}: \mathcal{X} \rightarrow \mathbb{R}^m$ maps a design to its $m$-dimensional objective value vector.
 
@@ -109,11 +109,11 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 #### Auxiliary Loss
 
 - [**Conservative Objective Models for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2107.06882) **_ICML_** 2021
-- [**RoMA: Robust Model Adaptation for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021
-- [**Bidirectional Learning for Offline Infinite-width Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd391cf5bdc4b63674d6da3edc1bde0d-Abstract-Conference.html) **_NeurIPS_** 2022
+- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021
+- [**Bidirectional Learning for Offline Infinite-width Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd391cf5bdc4b63674d6da3edc1bde0d-Abstract-Conference.html) **_NeurIPS_** 2022
 - [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) **_NeurIPS_** 2022
-- [**Bidirectional Learning for Offline Model-based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023
-- [**Parallel-mentoring for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
+- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023
+- [**Parallel-mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
 - [**Learning Surrogates for Offline Black-Box Optimization via Gradient Matching**](https://openreview.net/forum?id=mv9beA1wDF) **_ICML_** 2024
 - [**Boosting Offline Optimizers with Surrogate Sensitivity**](https://openreview.net/forum?id=aLSA3JH08h&referrer=%5Bthe%20profile%20of%20Manh%20Cuong%20Dao%5D(%2Fprofile%3Fid%3D~Manh_Cuong_Dao1)) **_ICML_** 2024 
 - [**Incorporating Surrogate Gradient Norm to Improve Offline Optimization Techniques**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0f588c9d9fa34762362697c1dd463294-Abstract-Conference.html) **_NeurIPS_** 2024
@@ -121,23 +121,23 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 #### Data-Drive Adaptation
 
-- [**Autofocused oracles for model-based design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020
+- [**Autofocused oracles for Model-Based design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020
 - [**Conservative Objective Models for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2107.06882) **_ICML_** 2021
-- [**Bidirectional Learning for Offline Model-based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023
-- [**Parallel-mentoring for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
-- [**Importance-aware Co-teaching for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023
+- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023
+- [**Parallel-mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
+- [**Importance-aware Co-teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023
 - [**Functional Graphical Models: Structure Enables Offline Data-Driven Optimization**](https://arxiv.org/abs/2401.05442) **_AISTATS_** 2024
 
 #### Collaborative Ensembling
 
 - [**Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation**](https://arxiv.org/abs/2102.07970) **_ICLR_** 2021
 - [**Conflict-Averse Gradient Optimization of Ensembles for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2303.17934) **_Public Online_** 2023
-- [**Parallel-mentoring for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
-- [**Importance-aware Co-teaching for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023
+- [**Parallel-mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023
+- [**Importance-aware Co-teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023
 
 #### Generative Model Integration
 
-- [**Autofocused oracles for model-based design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020
+- [**Autofocused oracles for Model-Based design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020
 - [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) **_NeurIPS_** 2022
 - [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) **_TMLR_** 2024
 
@@ -147,7 +147,7 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 - [**Automatic chemical design using a data-driven continuous representation of molecules**](https://arxiv.org/abs/1610.02415) **_ACS central science_** 2018
 - [**Conditioning by adaptive sampling for robust design**](https://proceedings.mlr.press/v97/brookes19a.html) **_ICML_** 2019
-- [**RoMA: Robust Model Adaptation for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021
+- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021
 - [**Latent Bayesian Optimization via Autoregressive Normalizing Flows**](https://openreview.net/forum?id=ZCOwwRAaEl) **_ICLR_** 2025
 
 #### Generative Adversarial Networks (GAN)
@@ -159,7 +159,7 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 #### Autoregressive Models
 
 - [**Plug and Play Language Models: A Simple Approach to Controlled Text Generation**](https://openreview.net/forum?id=H1edEyBKDS) **_ICLR_** 2020
-- [**Model-based reinforcement learning for biological sequence design**](https://openreview.net/forum?id=HklxbgBKvr) **_ICLR_** 2020
+- [**Model-Based reinforcement learning for biological sequence design**](https://openreview.net/forum?id=HklxbgBKvr) **_ICLR_** 2020
 - [**Generative Pretraining for Black-Box Optimization**](https://arxiv.org/abs/2206.10786) **_ICML_** 2022
 - [**Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d601a9b708cacfad167f6c6c45647a18-Abstract-Conference.html) **_NeurIPS_** 2023
 - [**ExPT: Synthetic Pretraining for Few-Shot Experimental Design**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8fab4407e1fe9006b39180525c0d323c-Abstract-Conference.html) **_NeurIPS_** 2023
@@ -169,8 +169,8 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**Diffusion Models for Black-Box Optimization**](https://arxiv.org/abs/2306.07180) **_ICML_** 2023
 - [**Exploring Chemical Space with Score-based Out-of-distribution Generation**](https://arxiv.org/abs/2206.07632) **_ICML_** 2023
 - [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) **_TMLR_** 2024
-- [**Guided Trajectory Generation with Diffusion Models for Offline Model-based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/98904db124b2a2463e8c59ec33fc7150-Abstract-Conference.html) **_NeurIPS_** 2024
-- [**Design Editing for Offline Model-based Optimization**](https://arxiv.org/abs/2405.13964) **_Public Online_** 2024
+- [**Guided Trajectory Generation with Diffusion Models for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/98904db124b2a2463e8c59ec33fc7150-Abstract-Conference.html) **_NeurIPS_** 2024
+- [**Design Editing for Offline Model-Based Optimization**](https://arxiv.org/abs/2405.13964) **_Public Online_** 2024
 - [**Low To High-value Designs: Offline Optimization Via Generalized Diffusion**](https://openreview.net/forum?id=K9Elg2JrvY) **_Public Online_** 2025
 
 #### Flow Matching
