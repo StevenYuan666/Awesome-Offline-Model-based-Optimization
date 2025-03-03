@@ -20,7 +20,7 @@ This repository collects important papers for our new survey (will release soon)
 
 ## 🌟 What is Offline Model-Based Optimization?
 
-In offline optimization, the goal is to discover a new design, denoted by $\boldsymbol{x}^*$, that maximizes the objective(s) $\boldsymbol{f}(\boldsymbol{x})$. This is achieved using an offline dataset $\mathcal{D}$, which consists of $N$ designs paired with their property labels. In particular, the dataset is given by $\mathcal{D} = \{(\boldsymbol{x}_i, \boldsymbol{y}_i)\}_{i=1}^{N}\,$ where each design vector $\boldsymbol{x}_i$ belongs to a design space $\mathcal{X} \subseteq \mathbb{R}^d$, and each property label $\boldsymbol{y}_i \in \mathbb{R}^m$ contains the corresponding $m$ objective values for that design. The function $\boldsymbol{f}: \mathcal{X} \rightarrow \mathbb{R}^m$ maps a design to its $m$-dimensional objective value vector.
+In offline optimization, the goal is to discover a new design, denoted by $\boldsymbol{x}^*$, that maximizes the objective(s) $\boldsymbol{f}(\boldsymbol{x})$. This is achieved using an offline dataset $\mathcal{D}$, which consists of $N$ designs paired with their property labels. In particular, the dataset is given by $\mathcal{D} = \{(\boldsymbol{x}_i, \boldsymbol{y}_i)\}\_{i=1}^{N}\,$ where each design vector $\boldsymbol{x}_i$ belongs to a design space $\mathcal{X} \subseteq \mathbb{R}^d$, and each property label $\boldsymbol{y}_i \in \mathbb{R}^m$ contains the corresponding $m$ objective values for that design. The function $\boldsymbol{f}: \mathcal{X} \rightarrow \mathbb{R}^m$ maps a design to its $m$-dimensional objective value vector.
 
 
 
