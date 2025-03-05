@@ -207,10 +207,6 @@ Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github
 - [**Posterior Inference with Diffusion Models for High-Dimensional Black-box Optimization**](https://arxiv.org/abs/2502.16824) (Taeyoung Yun et al., 2025) [💻](https://github.com/umkiyoung/DiBO) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/dibo.txt)
 
 
-## Star History
-[![Star History Chart](https://api.star-history.com/svg?repos=mila-iqia/Awesome-Offline-Model-Based-Optimization&type=Date)](https://star-history.com/#mila-iqia/Awesome-Offline-Model-Based-Optimization&Date)
-
-
 
 ## 🤗 Contribution
 
