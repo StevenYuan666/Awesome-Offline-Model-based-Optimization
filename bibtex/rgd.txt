@@ -1,0 +1,7 @@
+@article{chen2024robust,
+	title        = {Robust Guided Diffusion for Offline Black-Box Optimization},
+	author       = {Can Chen and Christopher Beckham and Zixuan Liu and Xue Liu and Christopher Pal},
+	year         = {2024},
+	journal      = {Transactions on Machine Learning Research},
+	issn         = {2835-8856}
+}

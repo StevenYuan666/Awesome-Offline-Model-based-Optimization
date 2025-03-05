@@ -1,0 +1,10 @@
+@inproceedings{yuan2024importance,
+	title        = {Importance-aware Co-teaching for Offline Model-based Optimization},
+	author       = {Ye Yuan and Can Chen and Zixuan Liu and Willie Neiswanger and Xue (Steve) Liu},
+	year         = {2023},
+	booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/nips/YuanCLNL23.bib},
+	editor       = {Alice Oh and Tristan Naumann and Amir Globerson and Kate Saenko and Moritz Hardt and Sergey Levine},
+	timestamp    = {Fri, 01 Mar 2024 00:00:00 +0100}
+}

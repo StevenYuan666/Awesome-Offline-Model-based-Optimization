@@ -1,0 +1,6 @@
+@inproceedings{daoincorporating,
+	title        = {Incorporating Surrogate Gradient Norm to Improve Offline Optimization Techniques},
+	author       = {Dao, Manh Cuong and Le Nguyen, Phi and Truong, Thao Nguyen and Hoang, Trong Nghia},
+	booktitle    = {The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+        year         = {2024},
+}

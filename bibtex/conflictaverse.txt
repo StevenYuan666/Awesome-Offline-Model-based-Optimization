@@ -1,0 +1,8 @@
+@misc{kolli2023conflictaverse,
+	title        = {Conflict-Averse Gradient Optimization of Ensembles for Effective Offline Model-Based Optimization},
+	author       = {Sathvik Kolli},
+	year         = {2023},
+	archiveprefix = {arXiv},
+	eprint       = {2303.17934},
+	primaryclass = {cs.LG}
+}

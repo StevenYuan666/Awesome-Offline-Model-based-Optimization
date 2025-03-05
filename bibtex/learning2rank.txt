@@ -1,0 +1,8 @@
+@inproceedings{
+    tan2025offline,
+    title={Offline Model-Based Optimization by Learning to Rank},
+    author={Rong-Xi Tan and Ke Xue and Shen-Huan Lyu and Haopu Shang and yaowang and Yaoyuan Wang and Fu Sheng and Chao Qian},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=sb1HgVDLjN}
+}

@@ -1,0 +1,14 @@
+@inproceedings{chen2023bidirectional,
+	title        = {Bidirectional Learning for Offline Model-based Biological Sequence Design},
+	author       = {Can Chen and Yingxue Zhang and Xue Liu and Mark Coates},
+	year         = {2023},
+	booktitle    = {International Conference on Machine Learning, {ICML} 2023, 23-29 July 2023, Honolulu, Hawaii, {USA}},
+	publisher    = {Pmlr},
+	series       = {Proceedings of Machine Learning Research},
+	volume       = {202},
+	pages        = {5351--5366},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/icml/Chen0LC23.bib},
+	editor       = {Andreas Krause and Emma Brunskill and Kyunghyun Cho and Barbara Engelhardt and Sivan Sabato and Jonathan Scarlett},
+	timestamp    = {Thu, 08 Feb 2024 00:00:00 +0100}
+}

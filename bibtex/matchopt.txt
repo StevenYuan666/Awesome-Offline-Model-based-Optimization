@@ -1,0 +1,6 @@
+@inproceedings{hoang2024learning,
+	title        = {Learning Surrogates for Offline Black-Box Optimization via Gradient Matching},
+	author       = {Hoang, Minh and Fadhel, Azza and Deshwal, Aryan and Doppa, Jana and Hoang, Trong Nghia},
+	year         = {2024},
+	booktitle    = {Forty-first International Conference on Machine Learning}
+}

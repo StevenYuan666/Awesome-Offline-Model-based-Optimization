@@ -1,0 +1,10 @@
+@inproceedings{fannjiang2020autofocused,
+	title        = {Autofocused oracles for model-based design},
+	author       = {Clara Fannjiang and Jennifer Listgarten},
+	year         = {2020},
+	booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference on Neural Information Processing Systems 2020, NeurIPS 2020, December 6-12, 2020, virtual},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/nips/FannjiangL20.bib},
+	editor       = {Hugo Larochelle and Marc'Aurelio Ranzato and Raia Hadsell and Maria{-}Florina Balcan and Hsuan{-}Tien Lin},
+	timestamp    = {Tue, 19 Jan 2021 00:00:00 +0100}
+}

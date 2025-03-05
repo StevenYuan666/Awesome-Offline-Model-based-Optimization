@@ -1,0 +1,14 @@
+@inproceedings{grudzien2024functional,
+	title        = {Functional Graphical Models: Structure Enables Offline Data-Driven Optimization},
+	author       = {Kuba Grudzien Kuba and Masatoshi Uehara and Sergey Levine and Pieter Abbeel},
+	year         = {2024},
+	booktitle    = {International Conference on Artificial Intelligence and Statistics, 2-4 May 2024, Palau de Congressos, Valencia, Spain},
+	publisher    = {Pmlr},
+	series       = {Proceedings of Machine Learning Research},
+	volume       = {238},
+	pages        = {2449--2457},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/aistats/KubaULA24.bib},
+	editor       = {Sanjoy Dasgupta and Stephan Mandt and Yingzhen Li},
+	timestamp    = {Mon, 13 May 2024 01:00:00 +0200}
+}

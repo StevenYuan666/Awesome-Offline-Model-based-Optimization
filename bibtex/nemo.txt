@@ -1,0 +1,10 @@
+@inproceedings{fu2021offline,
+	title        = {Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation},
+	author       = {Justin Fu and Sergey Levine},
+	year         = {2021},
+	booktitle    = {9th International Conference on Learning Representations, {ICLR} 2021, Virtual Event, Austria, May 3-7, 2021},
+	publisher    = {OpenReview.net},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/iclr/FuL21.bib},
+	timestamp    = {Wed, 23 Jun 2021 01:00:00 +0200}
+}

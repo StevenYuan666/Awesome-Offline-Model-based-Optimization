@@ -1,0 +1,6 @@
+@inproceedings{dao2024boosting,
+  title={Boosting offline optimizers with surrogate sensitivity},
+  author={Dao, Manh Cuong and Le Nguyen, Phi and Truong, Thao Nguyen and Hoang, Trong Nghia},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024}
+}
