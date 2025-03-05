@@ -1,0 +1,7 @@
+@misc{
+    dao2025from,
+    title={{FROM} {LOW} {TO} {HIGH}-{VALUE} {DESIGNS}: {OFFLINE} {OPTIMIZATION} {VIA} {GENERALIZED} {DIFFUSION}},
+    author={Manh Cuong Dao and The Hung Tran and Phi Le Nguyen and Thao Nguyen Truong and Trong Nghia Hoang},
+    year={2025},
+    url={https://openreview.net/forum?id=K9Elg2JrvY}
+}

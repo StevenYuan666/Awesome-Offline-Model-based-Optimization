@@ -1,0 +1,7 @@
+@article{chen2025affinityflow,
+	title        = {AffinityFlow: Guided Flows for Antibody Affinity Maturation},
+	author       = {Chen, Can and Herpoldt, Karla-Luise and Zhao, Chenchao and Wang, Zichen and Collins, Marcus and Shang, Shang and Benson, Ron},
+	year         = {2025},
+	journal      = {ArXiv preprint},
+	volume       = {abs/2502.10365}
+}

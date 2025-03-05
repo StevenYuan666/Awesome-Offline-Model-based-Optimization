@@ -1,0 +1,8 @@
+@inproceedings{
+    frey2024protein,
+    title={Protein Discovery with Discrete Walk-Jump Sampling},
+    author={Nathan C. Frey and Dan Berenberg and Karina Zadorozhny and Joseph Kleinhenz and Julien Lafrance-Vanasse and Isidro Hotzel and Yan Wu and Stephen Ra and Richard Bonneau and Kyunghyun Cho and Andreas Loukas and Vladimir Gligorijevic and Saeed Saremi},
+    booktitle={The Twelfth International Conference on Learning Representations},
+    year={2024},
+    url={https://openreview.net/forum?id=zMPHKOmQNb}
+}

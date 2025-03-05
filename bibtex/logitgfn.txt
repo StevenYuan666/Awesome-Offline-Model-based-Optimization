@@ -1,0 +1,7 @@
+@article{kim2024learning,
+	title        = {Learning to Scale Logits for Temperature-Conditional GFlowNets},
+	author       = {Minsu Kim and Joohwan Ko and Taeyoung Yun and Dinghuai Zhang and Ling Pan and Woochang Kim and Jinkyoo Park and Emmanuel Bengio and Yoshua Bengio},
+	year         = {2024},
+	journal      = {International Conference on Machine Learning},
+	eprint       = {2310.02823}
+}

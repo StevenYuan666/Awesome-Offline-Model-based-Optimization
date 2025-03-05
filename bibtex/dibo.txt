@@ -1,0 +1,7 @@
+@article{yun2025posterior,
+	title        = {Posterior Inference with Diffusion Models for High-dimensional Black-box Optimization},
+	author       = {Yun, Taeyoung and Om, Kiyoung and Lee, Jaewoo and Yun, Sujin and Park, Jinkyoo},
+	year         = {2025},
+	journal      = {ArXiv preprint},
+	volume       = {abs/2502.16824}
+}

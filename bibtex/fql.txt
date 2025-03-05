@@ -1,0 +1,7 @@
+@article{park2025flow,
+	title        = {Flow Q-Learning},
+	author       = {Park, Seohong and Li, Qiyang and Levine, Sergey},
+	year         = {2025},
+	journal      = {ArXiv preprint},
+	volume       = {abs/2502.02538}
+}

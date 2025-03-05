@@ -1,0 +1,10 @@
+@inproceedings{Dathathri2020Plug,
+	title        = {Plug and Play Language Models: {A} Simple Approach to Controlled Text Generation},
+	author       = {Sumanth Dathathri and Andrea Madotto and Janice Lan and Jane Hung and Eric Frank and Piero Molino and Jason Yosinski and Rosanne Liu},
+	year         = {2020},
+	booktitle    = {8th International Conference on Learning Representations, {ICLR} 2020, Addis Ababa, Ethiopia, April 26-30, 2020},
+	publisher    = {OpenReview.net},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/iclr/DathathriMLHFMY20.bib},
+	timestamp    = {Thu, 07 May 2020 01:00:00 +0200}
+}

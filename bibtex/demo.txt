@@ -1,0 +1,8 @@
+@misc{yuan2024design,
+	title        = {Design Editing for Offline Model-based Optimization},
+	author       = {Ye Yuan and Youyuan Zhang and Can Chen and Haolun Wu and Zixuan Li and Jianmo Li and James J. Clark and Xue Liu},
+	year         = {2024},
+	archiveprefix = {arXiv},
+	eprint       = {2405.13964},
+	primaryclass = {cs.LG}
+}

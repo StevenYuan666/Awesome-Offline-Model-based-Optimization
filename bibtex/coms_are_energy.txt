@@ -1,0 +1,8 @@
+@misc{beckham2023conservative,
+	title        = {Conservative objective models are a special kind of contrastive divergence-based energy model},
+	author       = {Christopher Beckham and Christopher Pal},
+	year         = {2023},
+	archiveprefix = {arXiv},
+	eprint       = {2304.03866},
+	primaryclass = {stat.ML}
+}

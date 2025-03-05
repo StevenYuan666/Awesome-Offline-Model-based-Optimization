@@ -1,0 +1,8 @@
+@inproceedings{
+    lee2025latent,
+    title={Latent Bayesian Optimization via Autoregressive Normalizing Flows},
+    author={Seunghun Lee and Jinyoung Park and Jaewon Chu and Minseo Yoon and Hyunwoo J. Kim},
+    booktitle={The Thirteenth International Conference on Learning Representations},
+    year={2025},
+    url={https://openreview.net/forum?id=ZCOwwRAaEl}
+}

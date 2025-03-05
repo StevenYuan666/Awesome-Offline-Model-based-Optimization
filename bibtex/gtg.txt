@@ -1,0 +1,7 @@
+@article{yun2024guided,
+	title        = {Guided trajectory generation with diffusion models for offline model-based optimization},
+	author       = {Yun, Taeyoung and Yun, Sujin and Lee, Jaewoo and Park, Jinkyoo},
+	year         = {2024},
+	journal      = {ArXiv preprint},
+	volume       = {abs/2407.01624}
+}

@@ -1,0 +1,6 @@
+@inproceedings{yao2024generative,
+	title        = {Generative Adversarial Model-Based Optimization via Source Critic Regularization},
+	author       = {Yao, Michael S and Zeng, Yimeng and Bastani, Hamsa and Gardner, Jacob R and Gee, James and Bastani, Osbert},
+	year         = {2024},
+	booktitle    = {The Thirty-eighth Annual Conference on Neural Information Processing Systems}
+}

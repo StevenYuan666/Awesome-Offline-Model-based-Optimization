@@ -1,0 +1,14 @@
+@inproceedings{lee2023exploring,
+	title        = {Exploring Chemical Space with Score-based Out-of-distribution Generation},
+	author       = {Seul Lee and Jaehyeong Jo and Sung Ju Hwang},
+	year         = {2023},
+	booktitle    = {International Conference on Machine Learning, {ICML} 2023, 23-29 July 2023, Honolulu, Hawaii, {USA}},
+	publisher    = {Pmlr},
+	series       = {Proceedings of Machine Learning Research},
+	volume       = {202},
+	pages        = {18872--18892},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/icml/LeeJH23.bib},
+	editor       = {Andreas Krause and Emma Brunskill and Kyunghyun Cho and Barbara Engelhardt and Sivan Sabato and Jonathan Scarlett},
+	timestamp    = {Mon, 28 Aug 2023 01:00:00 +0200}
+}

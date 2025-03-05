@@ -1,0 +1,7 @@
+@article{yu2024latent,
+	title        = {Latent energy-based odyssey: Black-box optimization via expanded exploration in the energy-based latent space},
+	author       = {Yu, Peiyu and Zhang, Dinghuai and He, Hengzhi and Ma, Xiaojian and Miao, Ruiyao and Lu, Yifan and Zhang, Yasi and Kong, Deqian and Gao, Ruiqi and Xie, Jianwen and others},
+	year         = {2024},
+	journal      = {ArXiv preprint},
+	volume       = {abs/2405.16730}
+}

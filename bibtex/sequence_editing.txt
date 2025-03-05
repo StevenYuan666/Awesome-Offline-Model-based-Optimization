@@ -1,0 +1,6 @@
+@inproceedings{ghari2023generative,
+	title        = {Generative flow networks assisted biological sequence editing},
+	author       = {Ghari, Pouya M and Tseng, Alex and Eraslan, G{\"o}kcen and Lopez, Romain and Biancalani, Tommaso and Scalia, Gabriele and Hajiramezanali, Ehsan},
+	year         = {2023},
+	booktitle    = {NeurIPS 2023 Generative AI and Biology (GenBio) Workshop}
+}

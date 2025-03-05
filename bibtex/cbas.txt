@@ -1,0 +1,14 @@
+@inproceedings{brookes2019conditioning,
+	title        = {Conditioning by adaptive sampling for robust design},
+	author       = {David H. Brookes and Hahnbeom Park and Jennifer Listgarten},
+	year         = {2019},
+	booktitle    = {Proceedings of the 36th International Conference on Machine Learning, {ICML} 2019, 9-15 June 2019, Long Beach, California, {USA}},
+	publisher    = {Pmlr},
+	series       = {Proceedings of Machine Learning Research},
+	volume       = {97},
+	pages        = {773--782},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/icml/BrookesPL19.bib},
+	editor       = {Kamalika Chaudhuri and Ruslan Salakhutdinov},
+	timestamp    = {Tue, 11 Jun 2019 01:00:00 +0200}
+}

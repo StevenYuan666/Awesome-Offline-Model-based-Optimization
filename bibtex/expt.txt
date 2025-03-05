@@ -1,0 +1,10 @@
+@inproceedings{nguyuen2023expt,
+	title        = {ExPT: Synthetic Pretraining for Few-Shot Experimental Design},
+	author       = {Tung Nguyen and Sudhanshu Agrawal and Aditya Grover},
+	year         = {2023},
+	booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/nips/NguyenAG23.bib},
+	editor       = {Alice Oh and Tristan Naumann and Amir Globerson and Kate Saenko and Moritz Hardt and Sergey Levine},
+	timestamp    = {Fri, 01 Mar 2024 00:00:00 +0100}
+}
