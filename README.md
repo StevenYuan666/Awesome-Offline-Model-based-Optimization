@@ -117,37 +117,37 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 #### Auxiliary Loss
 
 - [**Conservative Objective Models for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2107.06882) (Brandon Trabucco & Aviral Kumar et al., ICML 2021) [💻](https://github.com/brandontrabucco/design-baselines) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/coms.txt)
-- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021 [💻]() [📖]()
-- [**Bidirectional Learning for Offline Infinite-Width Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd391cf5bdc4b63674d6da3edc1bde0d-Abstract-Conference.html) **_NeurIPS_** 2022 [💻]() [📖]()
-- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) **_NeurIPS_** 2022 [💻]() [📖]()
-- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023 [💻]() [📖]()
-- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
-- [**Learning Surrogates for Offline Black-Box Optimization via Gradient Matching**](https://openreview.net/forum?id=mv9beA1wDF) **_ICML_** 2024 [💻]() [📖]()
-- [**Boosting Offline Optimizers with Surrogate Sensitivity**](https://openreview.net/forum?id=aLSA3JH08h&referrer=%5Bthe%20profile%20of%20Manh%20Cuong%20Dao%5D(%2Fprofile%3Fid%3D~Manh_Cuong_Dao1)) **_ICML_** 2024  [💻]() [📖]()
-- [**Incorporating Surrogate Gradient Norm to Improve Offline Optimization Techniques**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0f588c9d9fa34762362697c1dd463294-Abstract-Conference.html) **_NeurIPS_** 2024 [💻]() [📖]()
-- [**Offline Model-Based Optimization by Learning to Rank**](https://openreview.net/forum?id=sb1HgVDLjN) **_ICLR_** 2025 [💻]() [📖]()
+- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) (Sihyun Yu et al., NeurIPS 2021) [💻](https://github.com/sihyun-yu/RoMA) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/roma.txt)
+- [**Bidirectional Learning for Offline Infinite-Width Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2022/hash/bd391cf5bdc4b63674d6da3edc1bde0d-Abstract-Conference.html) (Can Chen et al., NeurIPS 2022) [💻](https://github.com/GGchen1997/BDI) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bdi.txt)
+- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
+- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) (Can Chen et al., ICML 2023) [💻](https://github.com/GGchen1997/BIB-ICML2023-Submission) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bib.txt)
+- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) (Can Chen et al., NeurIPS 2023) [💻](https://github.com/GGchen1997/parallel_mentoring) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/parallel_mentor.txt)
+- [**Learning Surrogates for Offline Black-Box Optimization via Gradient Matching**](https://openreview.net/forum?id=mv9beA1wDF) (Minh Hoang et al., ICML 2024) [💻](https://github.com/azzafadhel/MatchOpt) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/matchopt.txt)
+- [**Boosting Offline Optimizers with Surrogate Sensitivity**](https://openreview.net/forum?id=aLSA3JH08h&referrer=%5Bthe%20profile%20of%20Manh%20Cuong%20Dao%5D(%2Fprofile%3Fid%3D~Manh_Cuong_Dao1)) (Manh Cuong Dao et al., ICML 2024)  [💻](https://github.com/cuong-dm/BOSS) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/boss.txt)
+- [**Incorporating Surrogate Gradient Norm to Improve Offline Optimization Techniques**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0f588c9d9fa34762362697c1dd463294-Abstract-Conference.html) (Manh Cuong Dao et al., NeurIPS 2024) [💻](https://github.com/cuong-dm/IGNITE) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ignite.txt)
+- [**Offline Model-Based Optimization by Learning to Rank**](https://openreview.net/forum?id=sb1HgVDLjN) (Rong-Xi Tan et al., ICLR 2025) [💻](https://github.com/lamda-bbo/Offline-RaM) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/learning2rank.txt)
 
 #### Data-Drive Adaptation
 
-- [**Autofocused Oracles for Model-Based Design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020 [💻]() [📖]()
+- [**Autofocused Oracles for Model-Based Design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) (Clara Fannjiang et al., NeurIPS 2020) [💻](https://github.com/clarafy/autofocused-oracles) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/autofocused.txt)
 - [**Conservative Objective Models for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2107.06882) (Brandon Trabucco & Aviral Kumar et al., ICML 2021) [💻](https://github.com/brandontrabucco/design-baselines) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/coms.txt)
-- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) **_ICML_** 2023 [💻]() [📖]()
-- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
-- [**Importance-Aware Co-Teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
-- [**Functional Graphical Models: Structure Enables Offline Data-Driven Optimization**](https://arxiv.org/abs/2401.05442) **_AISTATS_** 2024 [💻]() [📖]()
+- [**Bidirectional Learning for Offline Model-Based Biological Sequence Design**](https://proceedings.mlr.press/v202/chen23ao.html) (Can Chen et al., ICML 2023) [💻](https://github.com/GGchen1997/BIB-ICML2023-Submission) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bib.txt)
+- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) (Can Chen et al., NeurIPS 2023) [💻](https://github.com/GGchen1997/parallel_mentoring) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/parallel_mentor.txt)
+- [**Importance-Aware Co-Teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) (Ye Yuan & Can Chen et al., NeurIPS 2023) [💻](https://github.com/mila-iqia/Importance-aware-Co-teaching) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ict.txt)
+- [**Functional Graphical Models: Structure Enables Offline Data-Driven Optimization**](https://arxiv.org/abs/2401.05442) (Jakub Grudzien Kuba et al., AISTATS 2024) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/fgm.txt)
 
 #### Collaborative Ensembling
 
-- [**Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation**](https://arxiv.org/abs/2102.07970) **_ICLR_** 2021 [💻]() [📖]()
-- [**Conflict-Averse Gradient Optimization of Ensembles for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2303.17934) **_Public Online_** 2023 [💻]() [📖]()
-- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
-- [**Importance-Aware Co-Teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
+- [**Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation**](https://arxiv.org/abs/2102.07970) (Justin Fu et al., ICLR 2021) [💻](https://sites.google.com/view/nemo-anonymous) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/nemo.txt)
+- [**Conflict-Averse Gradient Optimization of Ensembles for Effective Offline Model-Based Optimization**](https://arxiv.org/abs/2303.17934) (Sathvik Kolli, 2023) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/conflictaverse.txt)
+- [**Parallel-Mentoring for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f189e7580acad0fc7fd45405817ddee3-Abstract-Conference.html) (Can Chen et al., NeurIPS 2023) [💻](https://github.com/GGchen1997/parallel_mentoring) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/parallel_mentor.txt)
+- [**Importance-Aware Co-Teaching for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/ae8b0b5838ba510daff1198474e7b984-Abstract-Conference.html) (Ye Yuan & Can Chen et al., NeurIPS 2023) [💻](https://github.com/mila-iqia/Importance-aware-Co-teaching) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ict.txt)
 
 #### Generative Model Integration
 
-- [**Autofocused Oracles for Model-Based Design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) **_NeurIPS_** 2020 [💻]() [📖]()
-- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) **_NeurIPS_** 2022 [💻]() [📖]()
-- [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) **_TMLR_** 2024 [💻]() [📖]()
+- [**Autofocused Oracles for Model-Based Design**](https://proceedings.neurips.cc/paper/2020/hash/972cda1e62b72640cb7ac702714a115f-Abstract.html) (Clara Fannjiang et al., NeurIPS 2020) [💻](https://github.com/clarafy/autofocused-oracles) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/autofocused.txt)
+- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
+- [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) (Can Chen et al., TMLR 2024) [💻](https://github.com/GGchen1997/RGD) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/rgd.txt)
 
 ## 🤔 Generative Models-Based Methods
 
@@ -155,13 +155,13 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 - [**Automatic Chemical Design using a Data-Driven Continuous Representation of Molecules**](https://arxiv.org/abs/1610.02415) **_ACS central science_** 2018 [💻]() [📖]()
 - [**Conditioning by Adaptive Sampling for Robust Design**](https://proceedings.mlr.press/v97/brookes19a.html) **_ICML_** 2019 [💻]() [📖]()
-- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) **_NeurIPS_** 2021 [💻]() [📖]()
+- [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) (Sihyun Yu et al., NeurIPS 2021) [💻](https://github.com/sihyun-yu/RoMA) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/roma.txt)
 - [**Latent Bayesian Optimization via Autoregressive Normalizing Flows**](https://openreview.net/forum?id=ZCOwwRAaEl) **_ICLR_** 2025 [💻]() [📖]()
 
 #### Generative Adversarial Networks (GAN)
 
 - [**Model Inversion Networks for Model-Based Optimization**](https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html) **_NeurIPS_** 2019 [💻]() [📖]()
-- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) **_NeurIPS_** 2022 [💻]() [📖]()
+- [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
 - [**Generative Adversarial Model-Based Optimization via Source Critic Regularization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4dd0a016d7d253d02473e4778414ab0b-Abstract-Conference.html) **_NeurIPS_** 2024 [💻]() [📖]()
 
 #### Autoregressive Models
@@ -205,6 +205,9 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**Learning to Scale Logits for Temperature-Conditional GFlowNets**](https://arxiv.org/abs/2310.02823) **_ICML_** 2024 [💻]() [📖]()
 - [**Posterior Inference with Diffusion Models for High-Dimensional Black-box Optimization**](https://arxiv.org/abs/2502.16824) **_Public Online_** 2025 [💻]() [📖]()
 
+
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=mila-iqia/Awesome-Offline-Model-Based-Optimization&type=Date)](https://star-history.com/#mila-iqia/Awesome-Offline-Model-Based-Optimization&Date)
 
 
 
