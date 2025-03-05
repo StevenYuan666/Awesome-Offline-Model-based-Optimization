@@ -1,0 +1,6 @@
+@misc{simulationlib,
+	title        = {Virtual Library of Simulation Experiments: Test Functions and Datasets},
+	author       = {Surjanovic, S. and Bingham, D.},
+	year         = {2013},
+	howpublished = {Retrieved February 21, 2025, from \url{http://www.sfu.ca/~ssurjano}}
+}
