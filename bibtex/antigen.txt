@@ -1,0 +1,10 @@
+@inproceedings{luo2022antigen,
+	title        = {Antigen-Specific Antibody Design and Optimization with Diffusion-Based Generative Models for Protein Structures},
+	author       = {Shitong Luo and Yufeng Su and Xingang Peng and Sheng Wang and Jian Peng and Jianzhu Ma},
+	year         = {2022},
+	booktitle    = {Advances in Neural Information Processing Systems 35: Annual Conference on Neural Information Processing Systems 2022, NeurIPS 2022, New Orleans, LA, USA, November 28 - December 9, 2022},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/nips/LuoSPW0M22.bib},
+	editor       = {Sanmi Koyejo and S. Mohamed and A. Agarwal and Danielle Belgrave and K. Cho and A. Oh},
+	timestamp    = {Mon, 08 Jan 2024 00:00:00 +0100}
+}

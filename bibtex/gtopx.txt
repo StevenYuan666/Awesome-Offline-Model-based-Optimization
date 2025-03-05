@@ -1,0 +1,11 @@
+@article{gtopx,
+    title = {GTOPX space mission benchmarks},
+    journal = {SoftwareX},
+    volume = {14},
+    pages = {100666},
+    year = {2021},
+    issn = {2352-7110},
+    doi = {https://doi.org/10.1016/j.softx.2021.100666},
+    author = {Martin Schlueter and Mehdi Neshat and Mohamed Wahib and Masaharu Munetomo and Markus Wagner},
+    keywords = {Optimization, Benchmark, Landscape analysis, Space mission trajectory}
+}

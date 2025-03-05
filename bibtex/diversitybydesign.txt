@@ -1,0 +1,6 @@
+@misc{yao2025dynamo,
+    title={Diversity By Design: {Leveraging} Distribution Matching for Offline Model-Based Optimization},
+    author={Yao, Michael S and Gee, James C and Bastani, Osbert},
+    journal={arXiv Preprint},
+    year={2024},
+}

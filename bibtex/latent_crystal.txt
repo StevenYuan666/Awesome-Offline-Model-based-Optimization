@@ -1,0 +1,8 @@
+@inproceedings{
+    qi2023latent,
+    title={Latent Conservative Objective Models for Offline Data-Driven Crystal Structure Prediction},
+    author={Han Qi and Stefano Rando and Xinyang Geng and Iku Ohama and Aviral Kumar and Sergey Levine},
+    booktitle={Workshop on ''Machine Learning for Materials'' ICLR 2023},
+    year={2023},
+    url={https://openreview.net/forum?id=rAGYFtTQ-Zz}
+}

@@ -1,0 +1,16 @@
+
+@InProceedings{pmlr-v162-jain22a,
+    title = 	 {Biological Sequence Design with {GF}low{N}ets},
+    author =       {Jain, Moksh and Bengio, Emmanuel and Hernandez-Garcia, Alex and Rector-Brooks, Jarrid and Dossou, Bonaventure F. P. and Ekbote, Chanakya Ajit and Fu, Jie and Zhang, Tianyu and Kilgour, Michael and Zhang, Dinghuai and Simine, Lena and Das, Payel and Bengio, Yoshua},
+    booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+    pages = 	 {9786--9801},
+    year = 	 {2022},
+    editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+    volume = 	 {162},
+    series = 	 {Proceedings of Machine Learning Research},
+    month = 	 {17--23 Jul},
+    publisher =    {PMLR},
+    pdf = 	 {https://proceedings.mlr.press/v162/jain22a/jain22a.pdf},
+    url = 	 {https://proceedings.mlr.press/v162/jain22a.html},
+    abstract = 	 {Design of de novo biological sequences with desired properties, like protein and DNA sequences, often involves an active loop with several rounds of molecule ideation and expensive wet-lab evaluations. These experiments can consist of multiple stages, with increasing levels of precision and cost of evaluation, where candidates are filtered. This makes the diversity of proposed candidates a key consideration in the ideation phase. In this work, we propose an active learning algorithm leveraging epistemic uncertainty estimation and the recently proposed GFlowNets as a generator of diverse candidate solutions, with the objective to obtain a diverse batch of useful (as defined by some utility function, for example, the predicted anti-microbial activity of a peptide) and informative candidates after each round. We also propose a scheme to incorporate existing labeled datasets of candidates, in addition to a reward function, to speed up learning in GFlowNets. We present empirical results on several biological sequence design tasks, and we find that our method generates more diverse and novel batches with high scoring candidates compared to existing approaches.}
+}

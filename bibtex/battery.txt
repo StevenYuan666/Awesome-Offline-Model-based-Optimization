@@ -1,0 +1,7 @@
+@inproceedings{valladares2021bayesian,
+	title        = {Bayesian Optimization of Active Materials for Lithium-Ion Batteries},
+	author       = {Valladares, B. and Others},
+	year         = {2021},
+	booktitle    = {Proceedings of IEEE IECON},
+	pages        = {27--35}
+}

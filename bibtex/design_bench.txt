@@ -1,0 +1,16 @@
+
+@InProceedings{pmlr-v162-trabucco22a,
+    title = 	 {Design-Bench: Benchmarks for Data-Driven Offline Model-Based Optimization},
+    author =       {Trabucco, Brandon and Geng, Xinyang and Kumar, Aviral and Levine, Sergey},
+    booktitle = 	 {Proceedings of the 39th International Conference on Machine Learning},
+    pages = 	 {21658--21676},
+    year = 	 {2022},
+    editor = 	 {Chaudhuri, Kamalika and Jegelka, Stefanie and Song, Le and Szepesvari, Csaba and Niu, Gang and Sabato, Sivan},
+    volume = 	 {162},
+    series = 	 {Proceedings of Machine Learning Research},
+    month = 	 {17--23 Jul},
+    publisher =    {PMLR},
+    pdf = 	 {https://proceedings.mlr.press/v162/trabucco22a/trabucco22a.pdf},
+    url = 	 {https://proceedings.mlr.press/v162/trabucco22a.html},
+    abstract = 	 {Black-box model-based optimization (MBO) problems, where the goal is to find a design input that maximizes an unknown objective function, are ubiquitous in a wide range of domains, such as the design of proteins, DNA sequences, aircraft, and robots. Solving model-based optimization problems typically requires actively querying the unknown objective function on design proposals, which means physically building the candidate molecule, aircraft, or robot, testing it, and storing the result. This process can be expensive and time consuming, and one might instead prefer to optimize for the best design using only the data one already has. This setting—called offline MBO—poses substantial and different algorithmic challenges than more commonly studied online techniques. A number of recent works have demonstrated success with offline MBO for high-dimensional optimization problems using high-capacity deep neural networks. However, the lack of standardized benchmarks in this emerging field is making progress difficult to track. To address this, we present Design-Bench, a benchmark for offline MBO with a unified evaluation protocol and reference implementations of recent methods. Our benchmark includes a suite of diverse and realistic tasks derived from real-world optimization problems in biology, materials science, and robotics that present distinct challenges for offline MBO. Our benchmark and reference implementations are released at github.com/rail-berkeley/design-bench and github.com/rail-berkeley/design-baselines.}
+}

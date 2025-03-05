@@ -1,0 +1,10 @@
+@inproceedings{kim2023bootstrapped,
+	title        = {Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences},
+	author       = {Minsu Kim and Federico Berto and Sungsoo Ahn and Jinkyoo Park},
+	year         = {2023},
+	booktitle    = {Advances in Neural Information Processing Systems 36: Annual Conference on Neural Information Processing Systems 2023, NeurIPS 2023, New Orleans, LA, USA, December 10 - 16, 2023},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/nips/KimBAP23.bib},
+	editor       = {Alice Oh and Tristan Naumann and Amir Globerson and Kate Saenko and Moritz Hardt and Sergey Levine},
+	timestamp    = {Fri, 01 Mar 2024 00:00:00 +0100}
+}

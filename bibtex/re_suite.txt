@@ -1,0 +1,12 @@
+@article{Tanabe_2020,
+	title        = {An easy-to-use real-world multi-objective optimization problem suite},
+	author       = {Tanabe, Ryoji and Ishibuchi, Hisao},
+	year         = {2020},
+	month        = {apr},
+	journal      = {Applied Soft Computing},
+	publisher    = {Elsevier BV},
+	volume       = {89},
+	pages        = {106078},
+	doi          = {10.1016/j.asoc.2020.106078},
+	issn         = {1568-4946}
+}

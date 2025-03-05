@@ -1,0 +1,14 @@
+@inproceedings{ren2022proximal,
+	title        = {Proximal Exploration for Model-guided Protein Sequence Design},
+	author       = {Zhizhou Ren and Jiahan Li and Fan Ding and Yuan Zhou and Jianzhu Ma and Jian Peng},
+	year         = {2022},
+	booktitle    = {International Conference on Machine Learning, {ICML} 2022, 17-23 July 2022, Baltimore, Maryland, {USA}},
+	publisher    = {Pmlr},
+	series       = {Proceedings of Machine Learning Research},
+	volume       = {162},
+	pages        = {18520--18536},
+	bibsource    = {dblp computer science bibliography, https://dblp.org},
+	biburl       = {https://dblp.org/rec/conf/icml/RenLD0M022.bib},
+	editor       = {Kamalika Chaudhuri and Stefanie Jegelka and Le Song and Csaba Szepesv{\'{a}}ri and Gang Niu and Sivan Sabato},
+	timestamp    = {Tue, 12 Jul 2022 01:00:00 +0200}
+}

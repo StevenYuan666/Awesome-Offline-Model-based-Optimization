@@ -1,0 +1,11 @@
+@ARTICLE{9078759,
+  author={Blank, Julian and Deb, Kalyanmoy},
+  journal={IEEE Access}, 
+  title={Pymoo: Multi-Objective Optimization in Python}, 
+  year={2020},
+  volume={8},
+  number={},
+  pages={89497-89509},
+  keywords={Optimization;Python;Tools;Task analysis;Data visualization;Evolutionary computation;Customization;genetic algorithm;multi-objective optimization;python},
+  doi={10.1109/ACCESS.2020.2990567}
+}
