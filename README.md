@@ -153,57 +153,58 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 #### Variational Autoencoders (VAE)
 
-- [**Automatic Chemical Design using a Data-Driven Continuous Representation of Molecules**](https://arxiv.org/abs/1610.02415) **_ACS central science_** 2018 [💻]() [📖]()
-- [**Conditioning by Adaptive Sampling for Robust Design**](https://proceedings.mlr.press/v97/brookes19a.html) **_ICML_** 2019 [💻]() [📖]()
+- [**Automatic Chemical Design using a Data-Driven Continuous Representation of Molecules**](https://arxiv.org/abs/1610.02415) (Rafael Gómez-Bombarelli & Jennifer N. Wei & David Duvenaud & José
+Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github.com/aspuru-guzik-group/chemical_vae) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/automaticchem.txt)
+- [**Conditioning by Adaptive Sampling for Robust Design**](https://proceedings.mlr.press/v97/brookes19a.html) (David H. Brookes et al., ICML 2019) [💻](https://github.com/dhbrookes/CbAS) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/cbas.txt)
 - [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) (Sihyun Yu et al., NeurIPS 2021) [💻](https://github.com/sihyun-yu/RoMA) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/roma.txt)
-- [**Latent Bayesian Optimization via Autoregressive Normalizing Flows**](https://openreview.net/forum?id=ZCOwwRAaEl) **_ICLR_** 2025 [💻]() [📖]()
+- [**Latent Bayesian Optimization via Autoregressive Normalizing Flows**](https://openreview.net/forum?id=ZCOwwRAaEl) (Seunghun Lee et al., ICLR 2025) [💻](https://github.com/mlvlab/NFBO) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/latentbayes.txt)
 
 #### Generative Adversarial Networks (GAN)
 
-- [**Model Inversion Networks for Model-Based Optimization**](https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html) **_NeurIPS_** 2019 [💻]() [📖]()
+- [**Model Inversion Networks for Model-Based Optimization**](https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html) (Aviral Kumar et al., NeurIPS 2019) [💻](https://github.com/brandontrabucco/design-baselines/tree/master/design_baselines/mins) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mins.txt)
 - [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
-- [**Generative Adversarial Model-Based Optimization via Source Critic Regularization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4dd0a016d7d253d02473e4778414ab0b-Abstract-Conference.html) **_NeurIPS_** 2024 [💻]() [📖]()
+- [**Generative Adversarial Model-Based Optimization via Source Critic Regularization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4dd0a016d7d253d02473e4778414ab0b-Abstract-Conference.html) (Michael S. Yao et al., NeurIPS 2024) [💻](https://github.com/michael-s-yao/gabo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/gabo.txt)
 
 #### Autoregressive Models
 
-- [**Plug and Play Language Models: A Simple Approach to Controlled Text Generation**](https://openreview.net/forum?id=H1edEyBKDS) **_ICLR_** 2020 [💻]() [📖]()
-- [**Model-Based Reinforcement Learning for Biological Sequence Design**](https://openreview.net/forum?id=HklxbgBKvr) **_ICLR_** 2020 [💻]() [📖]()
-- [**Generative Pretraining for Black-Box Optimization**](https://arxiv.org/abs/2206.10786) **_ICML_** 2022 [💻]() [📖]()
-- [**Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d601a9b708cacfad167f6c6c45647a18-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
-- [**ExPT: Synthetic Pretraining for Few-Shot Experimental Design**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8fab4407e1fe9006b39180525c0d323c-Abstract-Conference.html) **_NeurIPS_** 2023 [💻]() [📖]()
+- [**Plug and Play Language Models: A Simple Approach to Controlled Text Generation**](https://openreview.net/forum?id=H1edEyBKDS) (Sumanth Dathathri et al., ICLR 2020) [💻](https://github.com/uber-research/PPLM) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/pplm.txt)
+- [**Model-Based Reinforcement Learning for Biological Sequence Design**](https://openreview.net/forum?id=HklxbgBKvr) (Christof Angermueller et al., ICLR 2020) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mbrl_bio.txt)
+- [**Generative Pretraining for Black-Box Optimization**](https://arxiv.org/abs/2206.10786) (Satvik Mashkaria & Siddarth Krishnamoorthy et al., ICML 2022) [💻](https://github.com/siddarthk97/bonet) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bonet.txt)
+- [**Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d601a9b708cacfad167f6c6c45647a18-Abstract-Conference.html) (Minsu Kim et al., NeurIPS 2023) [💻](https://github.com/kaist-silab/bootgen) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bootgen.txt)
+- [**ExPT: Synthetic Pretraining for Few-Shot Experimental Design**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8fab4407e1fe9006b39180525c0d323c-Abstract-Conference.html) (Tung Nguyen et al., NeurIPS 2023) [💻](https://github.com/tung-nd/ExPT) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/expt.txt)
 
 #### Diffusion Models
 
-- [**Diffusion Models for Black-Box Optimization**](https://arxiv.org/abs/2306.07180) **_ICML_** 2023 [💻]() [📖]()
-- [**Exploring Chemical Space with Score-Based Out-of-Distribution Generation**](https://arxiv.org/abs/2206.07632) **_ICML_** 2023 [💻]() [📖]()
-- [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) **_TMLR_** 2024 [💻]() [📖]()
-- [**Guided Trajectory Generation with Diffusion Models for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/98904db124b2a2463e8c59ec33fc7150-Abstract-Conference.html) **_NeurIPS_** 2024 [💻]() [📖]()
-- [**Design Editing for Offline Model-Based Optimization**](https://arxiv.org/abs/2405.13964) **_Public Online_** 2024 [💻]() [📖]()
-- [**Low To High-Value Designs: Offline Optimization via Generalized Diffusion**](https://openreview.net/forum?id=K9Elg2JrvY) **_Public Online_** 2025 [💻]() [📖]()
+- [**Diffusion Models for Black-Box Optimization**](https://arxiv.org/abs/2306.07180) (Siddarth Krishnamoorthy et al., ICML 2023) [💻](https://github.com/siddarthk97/ddom) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ddom.txt)
+- [**Exploring Chemical Space with Score-Based Out-of-Distribution Generation**](https://arxiv.org/abs/2206.07632) (Seul Lee et al., ICML 2023) [💻](https://github.com/SeulLee05/MOOD) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mood.txt)
+- [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) (Can Chen et al., TMLR 2024) [💻](https://github.com/GGchen1997/RGD) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/rgd.txt)
+- [**Guided Trajectory Generation with Diffusion Models for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/98904db124b2a2463e8c59ec33fc7150-Abstract-Conference.html) (Taeyoung Yun et al., NeurIPS 2024) [💻](https://github.com/dbsxodud-11/GTG) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/gtg.txt)
+- [**Design Editing for Offline Model-Based Optimization**](https://arxiv.org/abs/2405.13964) (Ye Yuan & Youyuan Zhang et al., 2024) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/demo.txt)
+- [**Low To High-Value Designs: Offline Optimization via Generalized Diffusion**](https://openreview.net/forum?id=K9Elg2JrvY) (Manh Cuong Dao et al., 2025) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/low2high.txt)
 
 #### Flow Matching
 
-- [**Dirichlet Flow Matching with Applications to DNA Sequence Design**](https://proceedings.mlr.press/v235/stark24b.html) **_ICML_** 2024 [💻]() [📖]()
+- [**Dirichlet Flow Matching with Applications to DNA Sequence Design**](https://proceedings.mlr.press/v235/stark24b.html) (Hannes Stark & Bowen Jing et al., ICML 2024) [💻](https://github.com/HannesStark/dirichlet-flow-matching) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/dirichlet.txt)
 
-- [**ParetoFlow: Guided Flows in Multi-Objective Optimization**](https://openreview.net/forum?id=mLyyB4le5u) **_ICLR_** 2025 [💻]() [📖]()
-- [**Flow Q-Learning**](https://arxiv.org/abs/2502.02538) **_Public Online_** 2025 [💻]() [📖]()
-- [**AffinityFlow: Guided Flows for Antibody Affinity Maturation**](https://arxiv.org/abs/2502.10365) **_Public Online_** 2025 [💻]() [📖]()
+- [**ParetoFlow: Guided Flows in Multi-Objective Optimization**](https://openreview.net/forum?id=mLyyB4le5u) (Ye Yuan & Can Chen et al., ICLR 2025) [💻](https://github.com/mila-iqia/ParetoFlow) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/paretoflow.txt)
+- [**Flow Q-Learning**](https://arxiv.org/abs/2502.02538) (Seohong Park et al., 2025) [💻](https://github.com/seohongpark/fql) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/fql.txt)
+- [**AffinityFlow: Guided Flows for Antibody Affinity Maturation**](https://arxiv.org/abs/2502.10365) (Can Chen et al., 2025) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/affinityflow.txt)
 
 #### Energy-based Models
 
-- [**Conservative Objective Models Are a Special Kind of Contrastive Divergence-Based Energy Model**](https://arxiv.org/abs/2304.03866) **_Public Online_** 2023 [💻]() [📖]()
+- [**Conservative Objective Models Are a Special Kind of Contrastive Divergence-Based Energy Model**](https://arxiv.org/abs/2304.03866) (Christopher Beckham et al., 2023) [💻](https://github.com/christopher-beckham/coms-are-energy-models) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/coms_are_energy.txt)
 
-- [**Protein Discovery with Discrete Walk-Jump Sampling**](https://openreview.net/forum?id=zMPHKOmQNb) **_ICLR_** 2024 [💻]() [📖]()
-- [**Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space**](https://arxiv.org/abs/2405.16730) **_Public Online_** 2024 [💻]() [📖]()
+- [**Protein Discovery with Discrete Walk-Jump Sampling**](https://openreview.net/forum?id=zMPHKOmQNb) (Nathan C. Frey & Daniel Berenberg et al., ICLR 2024) [💻](https://github.com/prescient-design/walk-jump) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/walkjump.txt)
+- [**Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space**](https://arxiv.org/abs/2405.16730) (Peiyu Yu & Dinghuai Zhang et al., 2024) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/odyssey.txt)
 
 #### Control by Generative Flow Networks (GFlowNet)
 
 - [**Biological Sequence Design with GFlowNets**](https://proceedings.mlr.press/v162/jain22a.html) (Moksh Jain et al., ICML 2022) [💻](https://github.com/MJ10/BioSeq-GFN-AL) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/biosequence_gflownet.txt)
-- [**Multi-Objective GFlowNets**](https://proceedings.mlr.press/v202/jain23a.html) **_ICML_** 2023 [💻]() [📖]()
-- [**Generative Flow Networks Assisted Biological Sequence Editing**](https://openreview.net/forum?id=9BQ3l8OVru) **_NeurIPS GenBio_** 2023 [💻]() [📖]()
-- [**Improved Off-Policy Reinforcement Learning in Biological Sequence Design**](https://arxiv.org/abs/2410.04461) **_NeurIPS AI for New Drug Modalities_** 2024 [💻]() [📖]()
-- [**Learning to Scale Logits for Temperature-Conditional GFlowNets**](https://arxiv.org/abs/2310.02823) **_ICML_** 2024 [💻]() [📖]()
-- [**Posterior Inference with Diffusion Models for High-Dimensional Black-box Optimization**](https://arxiv.org/abs/2502.16824) **_Public Online_** 2025 [💻]() [📖]()
+- [**Multi-Objective GFlowNets**](https://proceedings.mlr.press/v202/jain23a.html) (Moksh Jain et al., ICML 2023) [💻](https://github.com/GFNOrg/multi-objective-gfn) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mogfn.txt)
+- [**Generative Flow Networks Assisted Biological Sequence Editing**](https://openreview.net/forum?id=9BQ3l8OVru) (Pouya M. Ghari et al., NeurIPS GenBio 2023) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/sequence_editing.txt)
+- [**Improved Off-Policy Reinforcement Learning in Biological Sequence Design**](https://arxiv.org/abs/2410.04461) (Hyeonah Kim et al., NeurIPS AI for New Drug Modalities 2024) [💻](https://github.com/hyeonahkimm/delta_cs) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/delta_cs.txt)
+- [**Learning to Scale Logits for Temperature-Conditional GFlowNets**](https://arxiv.org/abs/2310.02823) (Minsu Kim & Joohwan Ko et al., ICML 2024) [💻](https://github.com/dbsxodud-11/logit-gfn) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/logitgfn.txt)
+- [**Posterior Inference with Diffusion Models for High-Dimensional Black-box Optimization**](https://arxiv.org/abs/2502.16824) (Taeyoung Yun et al., 2025) [💻](https://github.com/umkiyoung/DiBO) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/dibo.txt)
 
 
 ## Star History
