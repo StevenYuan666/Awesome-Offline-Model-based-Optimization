@@ -19,12 +19,9 @@ This repository collects important papers for our new survey: **"Offline Model-B
 ## 🔍 Table of Contents
 
 - [🌟 What is Offline Model-Based Optimization?](#-definition)
-- [🔗 Benchmarks](#-Benchmarks)
-- [🎯 Surrogate Models-Based Methods](#-Surrogate-Models-Based-Methods)
-- [🤔 Generative Models-Based Methods](#-Generative-Models-Based-Methods)
-- [🤗 Contribution](#-contribution)
-  - [Contributors](#contributors)
-  - [Acknowledgement](#acknowledgement)
+- [🔗 Benchmark](#-Benchmark)
+- [🎯 Surrogate Modeling](#-Surrogate-Modeling)
+- [🤔 Generative Modeling](#-Generative-Modeling)
 
 ## 🌟 What is Offline Model-Based Optimization?
 
@@ -38,11 +35,11 @@ In offline single-objective optimization (SOO), only one objective is considered
 
 Offline multi-objective optimization (MOO) extends the framework to simultaneously address multiple objectives using the dataset $\mathcal{D}$. In this setting, the goal is to find solutions that balance competing objectives effectively. For instance, when designing a neural architecture, one might seek to achieve both high accuracy and high efficiency.
 
-## 🔗 Benchmarks
+## 🔗 Benchmark
 
-### Tasks
+### Task
 
-#### Synthetic Functions
+#### Synthetic Function
 
 - [**Virtual Library of Simulation Experiments: Test Functions and Datasets**](https://www.sfu.ca/~ssurjano/optimization.html) (Sonja Surjanovic & Derek Bingham, 2013) [💻](https://www.sfu.ca/~ssurjano/optimization.html) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/simulationlib.txt)
 
@@ -84,7 +81,7 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**Offline Multi-Objective Optimization**](https://arxiv.org/abs/2406.03722) (Ke Xue & Rong-Xi Tan et al., ICML 2024) [💻](https://github.com/lamda-bbo/offline-moo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/offline_moo.txt)
 - [**HPOBench: A Collection of Reproducible Multi-Fidelity Benchmark Problems for HPO**](https://openreview.net/forum?id=1k4rJYEwda-) (Katharina Eggensperger et al., NeurIPS Datasets and Benchmarks Track 2021) [💻](https://github.com/automl/HPOBench) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/hpobench.txt)
 
-### Evaluations
+### Evaluation Metric
 
 #### Usefulness
 
@@ -112,7 +109,7 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 
 
 
-## 🎯 Surrogate Models-Based Methods
+## 🎯 Surrogate Modeling
 
 #### Auxiliary Loss
 
@@ -149,9 +146,9 @@ Offline multi-objective optimization (MOO) extends the framework to simultaneous
 - [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
 - [**Robust Guided Diffusion for Offline Black-Box Optimization**](https://arxiv.org/abs/2410.00983) (Can Chen et al., TMLR 2024) [💻](https://github.com/GGchen1997/RGD) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/rgd.txt)
 
-## 🤔 Generative Models-Based Methods
+## 🤔 Generative Modeling
 
-#### Variational Autoencoders (VAE)
+#### Variational Autoencoder (VAE)
 
 - [**Automatic Chemical Design using a Data-Driven Continuous Representation of Molecules**](https://arxiv.org/abs/1610.02415) (Rafael Gómez-Bombarelli & Jennifer N. Wei & David Duvenaud & José
 Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github.com/aspuru-guzik-group/chemical_vae) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/automaticchem.txt)
@@ -159,13 +156,13 @@ Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github
 - [**RoMA: Robust Model Adaptation for Offline Model-Based Optimization**](https://proceedings.neurips.cc/paper_files/paper/2021/hash/24b43fb034a10d78bec71274033b4096-Abstract.html) (Sihyun Yu et al., NeurIPS 2021) [💻](https://github.com/sihyun-yu/RoMA) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/roma.txt)
 - [**Latent Bayesian Optimization via Autoregressive Normalizing Flows**](https://openreview.net/forum?id=ZCOwwRAaEl) (Seunghun Lee et al., ICLR 2025) [💻](https://github.com/mlvlab/NFBO) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/latentbayes.txt)
 
-#### Generative Adversarial Networks (GAN)
+#### Generative Adversarial Network (GAN)
 
 - [**Model Inversion Networks for Model-Based Optimization**](https://proceedings.neurips.cc/paper/2020/hash/373e4c5d8edfa8b74fd4b6791d0cf6dc-Abstract.html) (Aviral Kumar et al., NeurIPS 2019) [💻](https://github.com/brandontrabucco/design-baselines/tree/master/design_baselines/mins) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mins.txt)
 - [**Data-Driven Offline Decision-Making via Invariant Representation Learning**](https://arxiv.org/abs/2211.11349) (Han Qi & Yi Su & Aviral Kumar et al., NeurIPS 2022) [💻](https://sites.google.com/view/iom-neurips) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/iom.txt)
 - [**Generative Adversarial Model-Based Optimization via Source Critic Regularization**](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4dd0a016d7d253d02473e4778414ab0b-Abstract-Conference.html) (Michael S. Yao et al., NeurIPS 2024) [💻](https://github.com/michael-s-yao/gabo) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/gabo.txt)
 
-#### Autoregressive Models
+#### Autoregressive Model
 
 - [**Plug and Play Language Models: A Simple Approach to Controlled Text Generation**](https://openreview.net/forum?id=H1edEyBKDS) (Sumanth Dathathri et al., ICLR 2020) [💻](https://github.com/uber-research/PPLM) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/pplm.txt)
 - [**Model-Based Reinforcement Learning for Biological Sequence Design**](https://openreview.net/forum?id=HklxbgBKvr) (Christof Angermueller et al., ICLR 2020) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mbrl_bio.txt)
@@ -173,7 +170,7 @@ Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github
 - [**Bootstrapped Training of Score-Conditioned Generator for Offline Design of Biological Sequences**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/d601a9b708cacfad167f6c6c45647a18-Abstract-Conference.html) (Minsu Kim et al., NeurIPS 2023) [💻](https://github.com/kaist-silab/bootgen) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/bootgen.txt)
 - [**ExPT: Synthetic Pretraining for Few-Shot Experimental Design**](https://proceedings.neurips.cc/paper_files/paper/2023/hash/8fab4407e1fe9006b39180525c0d323c-Abstract-Conference.html) (Tung Nguyen et al., NeurIPS 2023) [💻](https://github.com/tung-nd/ExPT) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/expt.txt)
 
-#### Diffusion Models
+#### Diffusion Model
 
 - [**Diffusion Models for Black-Box Optimization**](https://arxiv.org/abs/2306.07180) (Siddarth Krishnamoorthy et al., ICML 2023) [💻](https://github.com/siddarthk97/ddom) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/ddom.txt)
 - [**Exploring Chemical Space with Score-Based Out-of-Distribution Generation**](https://arxiv.org/abs/2206.07632) (Seul Lee et al., ICML 2023) [💻](https://github.com/SeulLee05/MOOD) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mood.txt)
@@ -190,14 +187,14 @@ Miguel Hernández-Lobato et al., ACS central science 2018) [💻](https://github
 - [**Flow Q-Learning**](https://arxiv.org/abs/2502.02538) (Seohong Park et al., 2025) [💻](https://github.com/seohongpark/fql) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/fql.txt)
 - [**AffinityFlow: Guided Flows for Antibody Affinity Maturation**](https://arxiv.org/abs/2502.10365) (Can Chen et al., 2025) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/affinityflow.txt)
 
-#### Energy-based Models
+#### Energy-Based Model
 
 - [**Conservative Objective Models Are a Special Kind of Contrastive Divergence-Based Energy Model**](https://arxiv.org/abs/2304.03866) (Christopher Beckham et al., 2023) [💻](https://github.com/christopher-beckham/coms-are-energy-models) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/coms_are_energy.txt)
 
 - [**Protein Discovery with Discrete Walk-Jump Sampling**](https://openreview.net/forum?id=zMPHKOmQNb) (Nathan C. Frey & Daniel Berenberg et al., ICLR 2024) [💻](https://github.com/prescient-design/walk-jump) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/walkjump.txt)
 - [**Latent Energy-Based Odyssey: Black-Box Optimization via Expanded Exploration in the Energy-Based Latent Space**](https://arxiv.org/abs/2405.16730) (Peiyu Yu & Dinghuai Zhang et al., 2024) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/odyssey.txt)
 
-#### Control by Generative Flow Networks (GFlowNet)
+#### Control by Generative Flow Network (GFlowNet)
 
 - [**Biological Sequence Design with GFlowNets**](https://proceedings.mlr.press/v162/jain22a.html) (Moksh Jain et al., ICML 2022) [💻](https://github.com/MJ10/BioSeq-GFN-AL) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/biosequence_gflownet.txt)
 - [**Multi-Objective GFlowNets**](https://proceedings.mlr.press/v202/jain23a.html) (Moksh Jain et al., ICML 2023) [💻](https://github.com/GFNOrg/multi-objective-gfn) [📖](https://github.com/mila-iqia/Awesome-Offline-Model-Based-Optimization/blob/main/bibtex/mogfn.txt)
